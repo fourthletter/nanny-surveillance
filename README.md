@@ -18,7 +18,7 @@ Stakeholders Interviews
 Stakeholder Interviews are conversations UX designers conducts with their key stakeholder: workers, potential employers, designers, engineers
 
 Value Proposition
-A statement that maps out the key aspects of product: what it is, who it is for and how it will be used.
+Create a series of cards to help map out the user experience with hiring platforms: what it is, who it is for and how it will be used.
 
 UX Guide
 Open source documentation of stakeholder interviews and value proposition excercises.
